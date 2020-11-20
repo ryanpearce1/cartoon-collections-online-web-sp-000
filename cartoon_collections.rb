@@ -12,7 +12,8 @@ end
 end
 
 def long_planeteer_calls(yeeeeer)
-  answer = FALSE
+  answer = false
+  long_planeteer_calls each.do
   
 end
 
