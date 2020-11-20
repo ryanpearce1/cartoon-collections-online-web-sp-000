@@ -6,6 +6,8 @@ end
 end
 
 def summon_captain_planet(captain)
+  captain.collect do |call|
+    call
 end
 
 def long_planeteer_calls# code an argument here
