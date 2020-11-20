@@ -13,7 +13,8 @@ end
 
 def long_planeteer_calls(yeeeeer)
   answer = false
-  long_planeteer_calls.each do
+  long_planeteer_calls.each do |call|
+    
   
 end
 
